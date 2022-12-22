@@ -5,7 +5,7 @@
 - O resultado do meu mestrado é o [WebGENTE](https://github.com/paschendale/webgente-node), um WebGIS desenvolvido em Node.js para disponibilização de dados cadastrais
 - Estou em busca do titulo de *Doctor Scientiae* na mesma área e universidade
 - Meu objeto de pesquisa atual é o *Land Administration Domain Model* e suas aplicações no Brasil
-- Atualmente estou trabalhando com **análise de requisitos** e desenvolvendo aplicações para o Cadastro Territorial Multifinalitário
+- Atualmente trabalho como **Análise de Requisitos** e **Product Owner**, desenvolvendo aplicações para o Cadastro Territorial Multifinalitário e áreas afins
 
 
 [![Paschendale's GitHub stats](https://github-readme-stats.vercel.app/api?username=paschendale&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
