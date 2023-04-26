@@ -1,11 +1,7 @@
-### Olá, meu nome é Victor Marotta - [LinkedIn](linkedin.com/in/victor-marotta-5055ab60)
+### Hi, my name is Victor Marotta - [LinkedIn](linkedin.com/in/victor-marotta-5055ab60)
 
-- Sou Engenheiro Agrimensor e Cartógrafo formado pela universidade Federal de Viçosa
-- Sou *Magister Scientiae* em Engenharia Civil, com concentração em Informações Espaciais e Cadastro Territorial Multifinalitário
-- O resultado do meu mestrado é o [WebGENTE](https://github.com/paschendale/webgente-node), um WebGIS desenvolvido em Node.js para disponibilização de dados cadastrais
-- Estou em busca do titulo de *Doctor Scientiae* na mesma área e universidade
-- Meu objeto de pesquisa atual é o *Land Administration Domain Model* e suas aplicações no Brasil
-- Atualmente trabalho como **Análise de Requisitos** e **Product Owner**, desenvolvendo aplicações para o Cadastro Territorial Multifinalitário e áreas afins
+I'm a Surveyor and Cartographer Engineer by formation, but a Software Engineer by trade. I've been developing Web-based Geographic Information Systems (WebGIS) by myself over the last years and lately I've been involved in coordinating teams of developers with the same goal. 
 
+I work as a Full Stack Developer with a DevOps inclination, I usually like to structure the whole cycle of the application: design, requirements, architecture, coding, automation, continuous integration and continuous delivery. I'm mostly skilled in JavaScript/TypeScript and React, but I can handle myself well around other JS/TS frameworks (or even VanillaJS), Python, Rust and other languages. 
 
-[![Paschendale's GitHub stats](https://github-readme-stats.vercel.app/api?username=paschendale&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Checkout my public repos to see what I've been working on lately :)
