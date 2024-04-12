@@ -25,6 +25,12 @@ Welcome to my GitHub profile! I'm a passionate Surveyor and Cartographer Enginee
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
+#### GIS Technologies:
+![OpenLayers](https://img.shields.io/badge/-OpenLayers-1f6b75?style=flat-square&logo=openlayers&logoColor=white)
+![RLayers](https://img.shields.io/badge/-RLayers-6a9fb5?style=flat-square&logo=rlayers&logoColor=white)
+![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+
 ### 📈 My GitHub Stats
 ![Victor's GitHub stats](https://github-readme-stats-git-main-paschendales-projects.vercel.app/api?username=paschendale&show_icons=true&theme=tokyonight)
 
