@@ -11,4 +11,4 @@ Surveyor and Cartographer Engineer with a Master’s in Civil Engineering. I spe
 - **GIS**: OpenLayers, Leaflet, Mapbox, Cesium and ThreeJS  
 
 ### Contact
-- [LinkedIn](https://linkedin.com/in/victor-marotta-5055ab60)
+- [victor@marotta.dev](mailto://victor@marotta.dev)
