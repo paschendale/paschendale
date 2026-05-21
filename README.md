@@ -4,9 +4,7 @@ I build geospatial systems, automation pipelines, and developer tooling.
 
 Founder of [Territorial](https://territorial.dev) — a company focused on custom geospatial infrastructure and software for clients worldwide. Most of my work sits somewhere between GIS, backend engineering, distributed systems, cloud infrastructure, and pretty frontends.
 
-Outside client work, I mostly build tools that solve problems I personally ran into.
-
-## Projects
+Outside client work, I mostly build tools that solve problems I personally ran into:
 
 - [finances](https://github.com/paschendale/finances)  
   A minimal personal finance tracker made because most finance apps feel visually noisy and overdesigned.
