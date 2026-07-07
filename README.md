@@ -9,6 +9,9 @@ Outside client work, I mostly build tools that solve problems I personally ran i
 - [finances](https://github.com/paschendale/finances)  
   A minimal personal finance tracker made because most finance apps feel visually noisy and overdesigned.
 
+- [mileage-tracker](https://github.com/paschendale/mileage-tracker)  
+  Downloaded several mileage tracking apps. Hated them all. Built one myself.
+
 - [sentinel](https://github.com/paschendale/sentinel)  
   Lightweight uptime monitoring and synthetic testing for self-hosted services and production systems.
 
